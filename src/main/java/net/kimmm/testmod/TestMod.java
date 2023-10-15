@@ -15,6 +15,7 @@ import org.slf4j.Logger;
 @Mod(TestMod.MOD_ID)
 public class TestMod
 {
+    //commit test
     public static final String MOD_ID = "testmod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
